@@ -1,7 +1,7 @@
 # C950_Vehicle_Routing_Problem
 Task: Design an algorithm to solve the Vehicle Routing Problem
 
-See "C950 Project Writeup" document for detailed description of algorithms, data structures, and analysis.
+See "C950 Project Writeup.docx" document for detailed description of algorithms, data structures, and analysis.
 
 We are tasked with designing an algorithm to solve the Vehicle Routing Problem, a generalization of the Traveling Salesman Problem in computer science. The problem requires that we find optimal routes for a set of vehicles that will deliver packages to locations. The problem is NP-complete, so an exact solution is impractical. Rather, we are tasked with finding an approximate solution that is practical to implement and meets the needs of our client.
 
